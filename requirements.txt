@@ -1,7 +1,7 @@
 streamlit
-spacy==3.6.1
+spacy==3.7.2
 python-docx
 PyMuPDF
 scikit-learn
-# spaCy language model (English)
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.1/en_core_web_sm-3.6.1.tar.gz
+# Correct spaCy language model
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
